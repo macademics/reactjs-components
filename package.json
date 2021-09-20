@@ -1,7 +1,13 @@
 {
   "name": "react-framework",
   "version": "0.1.0",
-  "private": true,
+  "main": "dist/index.js",
+  "private": false,
+  "files": [ "dist", "README.md" ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mdacademics/react-framework.git"
+  },
   "dependencies": {
     "@storybook/addon-storyshots": "^6.3.8",
     "@testing-library/jest-dom": "^5.14.1",

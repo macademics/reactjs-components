@@ -1,0 +1,14 @@
+
+# Distribution Files
+/dist/*.ttf
+/dist/*.png
+/dist/bundle.js
+/dist/bundle.js.LICENSE.txt
+/dist/main.js
+/dist/main.js.LICENSE.txt
+
+# Package Lock
+package-lock.json
+
+# Generated Node Modules
+node_modules

@@ -1,4 +1,7 @@
 
+# JEST Snapshot files
+/src/__snapshots__/*
+
 # Distribution Files
 /dist/*.ttf
 /dist/*.png

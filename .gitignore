@@ -3,6 +3,7 @@
 /src/__snapshots__/*
 
 # Distribution Files
+/dist/*.js
 /dist/*.ttf
 /dist/*.png
 /dist/bundle.js
